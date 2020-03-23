@@ -24,6 +24,24 @@ My duties as a cabin crew :
 
 - Completing  a flight report, recording  any incidents
 
+#### EDUCATION :
+
+International  Studies Academy ,Łódz - **Bachelor of Arts: English Philology**,
+University of Extremadura, Caceres – Spain -**Field of Study : English Philology**,
+Hotel and Catering Secondary School Rzeszów - **Field of Study: English Philology**,
+
+#### TRAININGS AND CERTIFICATES :
+
+Cabin Crew Training Course, Hahn-Germany  -  Cabin Crew Boeing 737- 800 series,
+Introduction to HTML -  Codecademy,
+Learn CSS - Codecademy, Udemy,
+Learn Java Script - Codecademy, Udemy,
+React for beginners - Udemy
+
+
+
+
+
 
 
 
