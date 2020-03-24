@@ -1,6 +1,6 @@
- #  MAGDALENA OUIRANE 
+ # MAGDALENA OUIRANE 
  
- ###  CONTACT INFO :
+ ### CONTACT INFO :
  
  
 ###### :house:   Warsaw, Poland 
